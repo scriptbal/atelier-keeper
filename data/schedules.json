@@ -1,0 +1,227 @@
+[
+    {
+        "id": "18594133-bd64-4f14-8d15-40bf48707257",
+        "name": "tes",
+        "message": "tes",
+        "event": {
+            "datetime": "2026-07-22T17:22:00.000Z",
+            "timestamp": 1784740920000,
+            "timezone": "Asia/Jakarta"
+        },
+        "notifications": [
+            {
+                "id": "e8a93597-7a19-412f-9585-419c4cdf9c27",
+                "label": "1menit",
+                "offset": -60,
+                "sendAt": 1784740860000,
+                "status": "sent",
+                "sentAt": null
+            },
+            {
+                "id": "d9796db2-3494-439a-afb3-cbc529bf0cf4",
+                "label": "Hari H",
+                "offset": 0,
+                "sendAt": 1784740920000,
+                "status": "sent",
+                "sentAt": null
+            }
+        ],
+        "targets": [
+            {
+                "type": "channel",
+                "channelId": "1529470968257450056"
+            },
+            {
+                "type": "dm",
+                "userId": "1071981713992978462"
+            },
+            {
+                "type": "dm",
+                "userId": "1320375846539755561"
+            }
+        ],
+        "createdBy": "1071981713992978462",
+        "createdAt": 1784740790742,
+        "status": "completed"
+    },
+    {
+        "id": "272625f7-5306-4586-a270-f788b2445f47",
+        "name": "lala",
+        "message": "lala",
+        "event": {
+            "datetime": "2026-07-21T17:31:00.000Z",
+            "timestamp": 1784655060000,
+            "timezone": "Asia/Jakarta"
+        },
+        "notifications": [
+            {
+                "id": "99317adc-8f3f-4aff-8093-c4b132312fe0",
+                "label": "1menit",
+                "offset": -60,
+                "sendAt": 1784655000000,
+                "status": "sent",
+                "sentAt": null
+            },
+            {
+                "id": "5bf4c936-4839-46ee-9d1c-017d89c2dd54",
+                "label": "Hari H",
+                "offset": 0,
+                "sendAt": 1784655060000,
+                "status": "sent",
+                "sentAt": null
+            }
+        ],
+        "targets": [
+            {
+                "type": "channel",
+                "channelId": "1529470968257450056"
+            },
+            {
+                "type": "dm",
+                "userId": "1071981713992978462"
+            },
+            {
+                "type": "dm",
+                "userId": "1320375846539755561"
+            }
+        ],
+        "createdBy": "1071981713992978462",
+        "createdAt": 1784741299252,
+        "status": "completed"
+    },
+    {
+        "id": "9a384552-5678-4bb5-8d28-6b92227fb0dc",
+        "name": "kaka",
+        "message": "kaka",
+        "event": {
+            "datetime": "2026-07-22T17:33:00.000Z",
+            "timestamp": 1784741580000,
+            "timezone": "Asia/Jakarta"
+        },
+        "notifications": [
+            {
+                "id": "564d950c-b9c7-4280-bbac-bd06ca7c10b0",
+                "label": "1menit",
+                "offset": -60,
+                "sendAt": 1784741520000,
+                "status": "sent",
+                "sentAt": null
+            },
+            {
+                "id": "8601b9ff-f873-4f4e-b97f-5b75928d3c12",
+                "label": "Hari H",
+                "offset": 0,
+                "sendAt": 1784741580000,
+                "status": "sent",
+                "sentAt": null
+            }
+        ],
+        "targets": [
+            {
+                "type": "channel",
+                "channelId": "1529470968257450056"
+            },
+            {
+                "type": "dm",
+                "userId": "1071981713992978462"
+            },
+            {
+                "type": "dm",
+                "userId": "1320375846539755561"
+            }
+        ],
+        "createdBy": "1071981713992978462",
+        "createdAt": 1784741520931,
+        "status": "completed"
+    },
+    {
+        "id": "9ba898d1-6571-408e-ab47-e1bd811384b9",
+        "name": "llalala",
+        "message": "lalalal",
+        "event": {
+            "datetime": "2026-07-22T17:35:00.000Z",
+            "timestamp": 1784741700000,
+            "timezone": "Asia/Jakarta"
+        },
+        "notifications": [
+            {
+                "id": "ee154483-8b8d-46ea-9093-75c0a0d18e0e",
+                "label": "1menit",
+                "offset": -60,
+                "sendAt": 1784741640000,
+                "status": "sent",
+                "sentAt": null
+            },
+            {
+                "id": "d04bc4bb-c96f-412e-835d-5d529f75665d",
+                "label": "Hari H",
+                "offset": 0,
+                "sendAt": 1784741700000,
+                "status": "sent",
+                "sentAt": null
+            }
+        ],
+        "targets": [
+            {
+                "type": "channel",
+                "channelId": "1529470968257450056"
+            },
+            {
+                "type": "dm",
+                "userId": "1071981713992978462"
+            },
+            {
+                "type": "dm",
+                "userId": "1320375846539755561"
+            }
+        ],
+        "createdBy": "1071981713992978462",
+        "createdAt": 1784741542517,
+        "status": "completed"
+    },
+    {
+        "id": "b5cea21c-506e-4dbb-b7b9-7ce2b87bf803",
+        "name": "Masuk server Lifi Locera 24 JULI",
+        "message": "udah h-1 masuk server buat collab ya",
+        "event": {
+            "datetime": "2026-07-24T12:00:00.000Z",
+            "timestamp": 1784894400000,
+            "timezone": "Asia/Jakarta"
+        },
+        "notifications": [
+            {
+                "id": "cadfba76-ef6a-4234-8e8d-b678604e33c7",
+                "label": "1jam",
+                "offset": -3600,
+                "sendAt": 1784890800000,
+                "status": "pending",
+                "sentAt": null
+            },
+            {
+                "id": "5f3028d7-8126-4be0-8703-7e93fe642bc6",
+                "label": "Hari H",
+                "offset": 0,
+                "sendAt": 1784894400000,
+                "status": "pending",
+                "sentAt": null
+            }
+        ],
+        "targets": [
+            {
+                "type": "channel",
+                "channelId": "1529470968257450056"
+            },
+            {
+                "type": "dm",
+                "userId": "1071981713992978462"
+            },
+            {
+                "type": "dm",
+                "userId": "1320375846539755561"
+            }
+        ],
+        "createdBy": "1071981713992978462",
+        "createdAt": 1784743433678,
+        "status": "active"
+    }
+]
